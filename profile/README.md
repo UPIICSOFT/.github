@@ -11,7 +11,7 @@
 
 ---
 
-# Onboardig
+# Onboarding
 
 ![doge cool jsjs](img/doge.webp)
 
