@@ -29,9 +29,11 @@ Quien en su momento dirigia a la comunidad, en donde realizaban eventos y buscab
 ¡Hola! Soy Itiel Montor, un profesional apasionado de la tecnología con un enfoque constante en la mejora continua y la ampliación de mis conocimientos. Actualmente estudio Ciencias de la Informática en el IPN UPIICSA y busco oportunidades para aplicar mis habilidades técnicas y creativas
 ![1000141136](https://github.com/UPIICSOFT/onboarding/assets/87087900/acd85a82-dba4-4216-86d0-2f6c48dae867)
 
-> Fundador  Nathan
+> Fundador  NathanErak
 
-Nathan Garcia, estudiante de Ingeniería en Informática, entusiasta de la tecnología, Backend Jr Dev & Jr Cybersecurity Analyst.
+Mi nombre es Nathan Garcia, soy estudiante de la carrera de Ingeniería en Informática  de 6° semestre en la UPIICSA - IPN.
+Actualmente me manejo como: Script Kiddie, Baby Developer 🤱🏼, QA Tester y entusiasta de la tecnología.
+Mi mayor habilidad es el liderazgo y ser autodidacta, por lo cual siempre estoy tratando de aprender cosas nuevas en los rubros de mi interés, y por ende, mantenerme actualizado en cuanto mi tiempo me lo permite.
 ![1000141137](https://github.com/UPIICSOFT/onboarding/assets/87087900/5fcb3a63-3beb-4a0a-8acc-06b8908486a1)
 
 > Fundador  Angel
@@ -44,7 +46,7 @@ Mi nombre es Angel, soy estudiante de ingeniería en informática y de igual for
 
 > Fundador  Tali
 
- Natalia Paola Hernández Herrera
+Natalia Paola Hernández Herrera
 Estudiante de Ingeniería en Informática en el IPN-UPIICSA
 Soy pionera de corazón, emprendedora de vocación, modelo y maquillista.
 Mis habilidades son desenvolvimiento social, liderazgo, servicial y disciplinada.
@@ -69,7 +71,7 @@ Soy una persona apasionada por la tecnologia que ha tenido la suerte de conocer 
 
 
     El posicionarnos desde diferentes contexto y entender el proceso de enseñanza aprendizaje no solo como una guia, tambien el entender que el alummno debe de tener un capacidad de autodiciplina para aprender por si solo. 
-    Nuestro enfoque es mas humanista  para desarrollar competencias reales de acuerdo a la experiencia en los diversos enfoques de los fundadores. 
+    Nuestro enfoque es mas humanista para desarrollar competencias reales de acuerdo a la experiencia en los diversos enfoques de los fundadores. 
 ---
 
 
