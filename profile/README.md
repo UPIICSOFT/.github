@@ -13,7 +13,7 @@
 
 # Onboarding
 
-![doge cool jsjs](img/doge.webp)
+![doge cool jsjs](profile/doge.webp)
 
 Bienvenidx a esta comunidad. 
 Nos alegra saber que cuentas con la curiosidad para incorporarte dentro de los desafios al aprender una nueva tecnologia 
