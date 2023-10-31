@@ -95,6 +95,6 @@ Nuestra misión en el Club Estudiantil de Microsoft es fomentar la pasión por l
 Es inspirar a nuestros miembros a ser agentes de cambio en el mundo tecnológico, fomentando la creatividad, la pasión y el aprendizaje continuo. Visualizamos un futuro en el que los egresados del Club Estudiantil de Microsoft sean líderes influyentes en la industria tecnológica, impulsando la innovación y haciendo contribuciones significativas a la sociedad
 
 
-# Primer Actividad Compartir en el grupo de Whats 
+# Primer Actividad 
 
-Su perfil de github 
+Compartir en el grupo de WhatsApp y Servidor de Discord su perfil de GitHub (En caso de no tener una cuenta, crearla)
