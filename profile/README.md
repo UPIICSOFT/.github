@@ -13,7 +13,7 @@
 
 # Onboarding
 
-![dogecooljsjs](profile/doge.webp)
+![dogecoin-1](https://github.com/UPIICSOFT/.github/assets/85259693/860e4f41-ad71-402c-b8d0-07077cb47795)
 
 Bienvenidx a esta comunidad. 
 Nos alegra saber que cuentas con la curiosidad para incorporarte dentro de los desafios al aprender una nueva tecnologia 
@@ -27,7 +27,7 @@ Quien en su momento dirigia a la comunidad, en donde realizaban eventos y buscab
 > Fundador  Alex Itiel
 
 ¡Hola! Soy Itiel Montor, un profesional apasionado de la tecnología con un enfoque constante en la mejora continua y la ampliación de mis conocimientos. Actualmente estudio Ciencias de la Informática en el IPN UPIICSA y busco oportunidades para aplicar mis habilidades técnicas y creativas
-![1000141136](https://github.com/UPIICSOFT/onboarding/assets/87087900/acd85a82-dba4-4216-86d0-2f6c48dae867)
+![1000141136](https://github.com/UPIICSOFT/.github/assets/85259693/11f90762-8686-47d9-87ec-630351faefc6)
 
 > Fundador  NathanErak
 
