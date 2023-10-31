@@ -27,6 +27,7 @@ Quien en su momento dirigia a la comunidad, en donde realizaban eventos y buscab
 > Fundador  Alex Itiel
 
 ¡Hola! Soy Itiel Montor, un profesional apasionado de la tecnología con un enfoque constante en la mejora continua y la ampliación de mis conocimientos. Actualmente estudio Ciencias de la Informática en el IPN UPIICSA y busco oportunidades para aplicar mis habilidades técnicas y creativas
+
 ![1000141136](https://github.com/UPIICSOFT/.github/assets/85259693/11f90762-8686-47d9-87ec-630351faefc6)
 
 > Fundador  NathanErak
@@ -34,6 +35,7 @@ Quien en su momento dirigia a la comunidad, en donde realizaban eventos y buscab
 Mi nombre es Nathan Garcia, soy estudiante de la carrera de Ingeniería en Informática  de 6° semestre en la UPIICSA - IPN.
 Actualmente me manejo como: Script Kiddie, Baby Developer 🤱🏼, QA Tester y entusiasta de la tecnología.
 Mi mayor habilidad es el liderazgo y ser autodidacta, por lo cual siempre estoy tratando de aprender cosas nuevas en los rubros de mi interés, y por ende, mantenerme actualizado en cuanto mi tiempo me lo permite.
+
 ![WhatsApp Image 2023-08-25 at 8 09 29 PM](https://github.com/UPIICSOFT/.github/assets/85259693/7af9644f-4f1e-406f-9cca-bd0d1c815557)
 
 > Fundador  Angel
@@ -53,9 +55,7 @@ Mis habilidades son desenvolvimiento social, liderazgo, servicial y disciplinada
 Mis actividades extracurriculares son el participar activamente en comunidades tecnológicas además de ser embajadora de mayor evento de tecnología a nivel mundial como lo es talentland jalisco
 Mis pasatiempos favoritos son ser tenista, porrita y amante de la música con instrumentos de cuerda y canto, en lo tecnológico actualizarme constantemente con ponencias en tendencia.
 
-![image](https://github.com/UPIICSOFT/onboarding/assets/87087900/0cca11af-ebbe-4377-934b-c5cd8bf0b16b)
-
-
+![tali](https://github.com/UPIICSOFT/.github/assets/85259693/bcafd3b6-8400-4b6f-b798-9adc095cec0a)
 
 > Fundador  Aquiles
 
