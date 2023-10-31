@@ -34,7 +34,7 @@ Quien en su momento dirigia a la comunidad, en donde realizaban eventos y buscab
 Mi nombre es Nathan Garcia, soy estudiante de la carrera de Ingeniería en Informática  de 6° semestre en la UPIICSA - IPN.
 Actualmente me manejo como: Script Kiddie, Baby Developer 🤱🏼, QA Tester y entusiasta de la tecnología.
 Mi mayor habilidad es el liderazgo y ser autodidacta, por lo cual siempre estoy tratando de aprender cosas nuevas en los rubros de mi interés, y por ende, mantenerme actualizado en cuanto mi tiempo me lo permite.
-![1000141137](https://github.com/UPIICSOFT/onboarding/assets/87087900/5fcb3a63-3beb-4a0a-8acc-06b8908486a1)
+![WhatsApp Image 2023-08-25 at 8 09 29 PM](https://github.com/UPIICSOFT/.github/assets/85259693/7af9644f-4f1e-406f-9cca-bd0d1c815557)
 
 > Fundador  Angel
 
