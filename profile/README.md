@@ -42,7 +42,7 @@ Hola!!Permíteme presentarme
 
 Mi nombre es Angel, soy estudiante de ingeniería en informática y de igual forma soy modelador en 3D Llegué a participar en el diseño de sudaderas para un evento astronómico y cómo soporte técnico de equipos computacionales en diferentes instituciones educativas
 
-![angel](https://github.com/UPIICSOFT/onboarding/assets/87087900/f3d8ba43-0730-4c91-a861-24ae002d32ff)
+![WhatsApp Image 2023-10-31 at 2 10 43 PM](https://github.com/UPIICSOFT/.github/assets/85259693/42840154-856a-40d1-a340-33eba50da226)
 
 > Fundador  Tali
 
