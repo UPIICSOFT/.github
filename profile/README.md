@@ -42,7 +42,7 @@ Mi mayor habilidad es el liderazgo y ser autodidacta, por lo cual siempre estoy 
 
 Hola!!Permíteme presentarme
 
-Mi nombre es Angel, soy estudiante de ingeniería en informática y de igual forma soy modelador en 3D Llegué a participar en el diseño de sudaderas para un evento astronómico y cómo soporte técnico de equipos computacionales en diferentes instituciones educativas
+Mi nombre es Angel, soy estudiante de ingeniería en informática y de igual forma soy modelador en 3D. Llegué a ser soporte técnico de equipos computacionales en diferentes instituciones educativas y actualmente estoy en uno de los bancos con mayor auge.
 
 ![WhatsApp Image 2023-10-31 at 2 10 43 PM](https://github.com/UPIICSOFT/.github/assets/85259693/42840154-856a-40d1-a340-33eba50da226)
 
