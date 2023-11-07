@@ -61,10 +61,7 @@ Mis pasatiempos favoritos son ser tenista, porrita y amante de la música con in
 
 Soy una persona apasionada por la tecnologia que ha tenido la suerte de conocer UPIICSA, ademas de tener suerte por realizar diversas actividades que incursionan en el mundo de la tecnologia: hackatones, Game Jam, Docencia
 
-![IMG-20230909-WA0099 (1)](https://github.com/UPIICSOFT/onboarding/assets/87087900/2bfab5c5-91e5-4598-a7e2-b7e515519680)
-
-
-
+![IMG-20230909-WA0099](https://github.com/UPIICSOFT/.github/assets/87087900/3f6aa121-eb14-4d31-b81a-778725f224f1)
 ---
 
 # Que nos caracteriza 
